@@ -1,0 +1,7 @@
+.idea
+# exclude everything
+pickles/*
+# exception to the rule
+!pickles/.gitkeep
+
+CNN_letter_Dataset
